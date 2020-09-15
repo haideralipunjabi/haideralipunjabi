@@ -1,7 +1,7 @@
 # Haider Ali Punjabi
 
 Python | HTML | JS
-![header](header.png)
+![header](https://raw.githubusercontent.com/haideralipunjabi/haideralipunjabi/master/header.png)
 
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
