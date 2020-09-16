@@ -28,7 +28,10 @@ I write regular blog posts which you will find on [my blog](https://blog.haidera
 - [Automating Android Games with Python & Pytesseract: Sudoku](https://blog.haideralipunjabi.com/posts/automating-android-game-with-python-pytesseract-sudoku/)
 - [Harry Potter Books & Fanfiction - An Analysis of Words](https://blog.haideralipunjabi.com/posts/harry-potter-books-fanfiction-an-analysis-of-words/)
 - [Adding View Count to your JAMstack Website with JavaScript and Google Analytics](https://blog.haideralipunjabi.com/posts/adding-view-count-to-your-jamstack-website/)
+<a href="https://github.com/haideralipunjabi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haideralipunjabi&show_icons=true&theme=dark&count_private=true" />
+</a>  
 
- ![Visitor Count](https://profile-counter.glitch.me/{haideralipunjabi}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{haideralipunjabi}/count.svg)
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
