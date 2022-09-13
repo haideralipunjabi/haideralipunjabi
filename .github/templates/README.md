@@ -1,6 +1,5 @@
 # Haider Ali Punjabi
 
-Python | JS | Flutter
 ![header](https://raw.githubusercontent.com/haideralipunjabi/haideralipunjabi/master/header.png)
 
 <p align="center">
