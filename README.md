@@ -1,6 +1,6 @@
 # Haider Ali Punjabi
 
-Python | HTML | JS
+Python | JS | Flutter
 ![header](https://raw.githubusercontent.com/haideralipunjabi/haideralipunjabi/master/header.png)
 
 <p align="center">
@@ -16,8 +16,7 @@ Python | HTML | JS
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-* Primary coding language: Python & JS.
-* I’m currently working on [CovidKashmir](https://covidkashmir.org)
+* Primary coding language: Python, JS and Flutter.
 * I make web apps about stuff I am interested in.
 * Ask me about anything, I'll be happy to help.
 * From Kashmir
@@ -31,7 +30,5 @@ I write regular blog posts which you will find on [my blog](https://blog.haidera
 <a href="https://github.com/haideralipunjabi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=haideralipunjabi&show_icons=true&theme=dark&count_private=true" />
 </a>  
-
-![Visitor Count](https://profile-counter.glitch.me/{haideralipunjabi}/count.svg)
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
