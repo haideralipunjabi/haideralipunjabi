@@ -24,14 +24,13 @@ Python | JS | Flutter
 
 I write regular blog posts which you will find on [my blog](https://blog.haideralipunjabi.com), [dev.to](https://dev.to/haideralipunjabi) & [Medium](https://medium.com/@haideralipunjabi).
 
-- [Creating a secure Wordle using Serverless Functions](https://blog.haideralipunjabi.com/posts/creating-a-secure-wordle-using-next.js-api-routes-and-vercel-serverless-functions/)
+{% for blog in blogs %}
 
-- [Dynamic Twitter Header using Python](https://blog.haideralipunjabi.com/posts/dynamic-twitter-header-using-python/)
+- [{{ blog.data.name }}]({{ blog.data.permalink }})
+  {% endfor %}
 
-- [Analysing YouTube Comments — Stuff Made Here](https://blog.haideralipunjabi.com/posts/analysing-youtube-comments-stuff-made-here/)
-
-- [Testing PWAs on mobile devices during development](https://blog.haideralipunjabi.com/posts/testing-pwas-on-mobile-devices-during-development/)
-
-- [Redesigning My Website - Automation, Custom SSG & Optimisations](https://blog.haideralipunjabi.com/posts/redesigning-my-website-automation-custom-ssg-optimisations/)
+<a href="https://github.com/haideralipunjabi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haideralipunjabi&show_icons=true&theme=dark&count_private=true" />
+</a>
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
