@@ -25,6 +25,9 @@ I write regular blog posts which you will find on [my blog](https://blog.haidera
 
 
 
+- [Display the time you spent coding in your status bar - WakaTime and Polybar](https://blog.haideralipunjabi.com/posts/displaying-the-time-you-spent-coding-in-your-status-bar-wakatime-and-bash/)
+  
+
 - [Creating a secure Wordle using Serverless Functions](https://blog.haideralipunjabi.com/posts/creating-a-secure-wordle-using-next.js-api-routes-and-vercel-serverless-functions/)
   
 
@@ -35,9 +38,6 @@ I write regular blog posts which you will find on [my blog](https://blog.haidera
   
 
 - [Testing PWAs on mobile devices during development](https://blog.haideralipunjabi.com/posts/testing-pwas-on-mobile-devices-during-development/)
-  
-
-- [Redesigning My Website - Automation, Custom SSG & Optimisations](https://blog.haideralipunjabi.com/posts/redesigning-my-website-automation-custom-ssg-optimisations/)
   
 
 <a href="https://github.com/haideralipunjabi">
