@@ -40,8 +40,4 @@ I write regular blog posts which you will find on [my blog](https://blog.haidera
 - [Testing PWAs on mobile devices during development](https://blog.haideralipunjabi.com/posts/testing-pwas-on-mobile-devices-during-development/)
   
 
-<a href="https://github.com/haideralipunjabi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haideralipunjabi&show_icons=true&theme=dark&count_private=true" />
-</a>
-
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
